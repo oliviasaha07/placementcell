@@ -8,7 +8,7 @@ MongoDB (Cross Platform, Document oriented NoSQL Database)
 AngularJs (JavaScript based Front-end Framework
 
 Repository Structure
-PlacementMNIT/
+Placementcell/
 ├── app/                    # Backend Folder
 │   ├── controllers/            # All business logic for routers
 │   ├── middlewares/            # ExpressJs Middlewares
