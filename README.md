@@ -1,7 +1,6 @@
 Motivation :
 The motivation for doing this project was primarily to make recruitment session smoother for students & make the complete Placement Process paperless at PIT. This is my small contribution, as the students of PIT, to the betterment of the system of Placements in PIT.
 
-I am deeply thankful to T&P Authorities for approving my project to use as Official Placement Portal - PIT
 Tech Stack :
 Node.Js (Server side JavaScript runtime environment)
 ExpressJs (Web Application Framework for Node.Js)
